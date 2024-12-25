@@ -1,3 +1,7 @@
+# The FOSS Club App
+
+A simple Android app to display The FOSS Club website using Tauri.
+
 # Tauri + SvelteKit
 
 This template should help get you started developing with Tauri and SvelteKit in Vite.
