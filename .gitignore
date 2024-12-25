@@ -1,3 +1,7 @@
+node_modules/
+target/
+*.log
+.env
 .DS_Store
 node_modules
 /build
